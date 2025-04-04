@@ -7,7 +7,7 @@ class Solution:
                 nums[leftPointer] = nums[rightPointer];
                 leftPointer += 1;
         return leftPointer;
-# # leetcode submit region end(Prohibit modification and deletion)
+# leetcode submit region end(Prohibit modification and deletion)
 
 nums = [[1,1,2], [0,0,1,1,1,2,2,3,3,4]];
 # 2, nums = [1,2,_]
